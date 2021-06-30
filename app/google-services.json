@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "880388574776",
+    "project_id": "fir-crud-8ed9d",
+    "storage_bucket": "fir-crud-8ed9d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:880388574776:android:953fedb7b836517a3de0cd",
+        "android_client_info": {
+          "package_name": "uas.alfifadilahhardianto.alfiuasfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "880388574776-ckfat47akri7ubjai9bi9uhlglqg4ggv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUqH7yErWS0jCZXJyo87xlZ-uAWkSZSyY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "880388574776-ckfat47akri7ubjai9bi9uhlglqg4ggv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
